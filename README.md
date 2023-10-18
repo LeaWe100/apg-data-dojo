@@ -1,6 +1,6 @@
 # Welcome to the Data Dojo!
 
-*A place of dyeliberate practice and learning.*
+*A place of deliberate practice and learning.*
 
 ## About
 
