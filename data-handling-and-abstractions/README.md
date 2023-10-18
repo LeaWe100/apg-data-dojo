@@ -1,5 +1,33 @@
 # Data handling and abstractions
 
+## Considerations and perspectives
+
+```mermaid
+mindmap
+Data Handling<br>Abstractions
+   IO
+      Readers
+      File formats
+      Databases
+      APIs
+      Performance
+   Organization
+      Tidy data
+      Data cleaning
+      Storage
+      Configuration
+   Representation
+      Data types
+      Data formats
+      Wide, long, tidy
+      Memory<br>consumption
+   Design
+      Ease of use
+      Interfaces
+      Patterns
+      Coupling
+```
+
 ## Assumptions and limitations
 
 The devised exercises assume that you have working knowledge
